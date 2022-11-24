@@ -8,7 +8,7 @@ Todos los datos necesarios están subidos en un repositorio de Kaggle (https://w
 
 # Programas y paquetes
 
-Todo el análisis en R, paquetes principales: tidyverse, dplyr, tidyr, ggplot2, lubridate forcats y viridis.
+Todo el análisis en R, paquetes principales: tidyverse, dplyr, tidyr, ggplot2, lubridate, forcats y viridis.
 
 # Procesos realizados
 
