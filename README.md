@@ -1,2 +1,4 @@
-# Victor_Projects_R
-Portfolio de mis programas en R
+# European King: Boxing Clasification in Football 
+Proyecto Completo -> ProyectoCompleto.md (En inglés)
+
+Resumen proyecto con análisis -> Datos Clave.md
